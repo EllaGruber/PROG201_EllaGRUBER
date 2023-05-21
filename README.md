@@ -8,7 +8,7 @@ After that, the letters will be hidden by black circles or dots on the screen. T
 
 To respond, you just need to type the correct letter on your computer keyboard in front of you. If your response is right, the letter will turn green. If you get it wrong, the letter you typed will turn red. It's important to respond accurately and as quickly as you can.
 
-Remember, you'll have a mandatory 30-second break every 5 minutes during the task. Be careful, as the experiment resumes _immediately_ after you press the space bar. The whole experience will last between 15 and 20 minutes.
+Remember, you'll have a mandatory 30-second break every 5 minutes during the task. Be careful, as the experiment resumes _immediately_ after you press the space bar. Normally, the whole experience will last between 15 and 20 minutes. However, for your convenience, tehre will be only 3 blocks of 5 trials each.
 
 
 **Experiment explenation: **
