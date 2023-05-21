@@ -33,8 +33,8 @@ halflife=10000 # la moyenne tiré du distribution exponentielle (assure que tu n
 ## --> Constant hazard rate (eliminate waiting bias) --> durée 
 
 # DESIGN : After each block there is a pause. 
-nBlocks = 1# Total number of blocks in experiement
-nTrials_per_block = 1 # Number of trials per block
+nBlocks = 3 # Total number of blocks in experiement
+nTrials_per_block = 5 # Number of trials per block
 
 # OUTPUT file variables/setup
 manip='mantraLetters'
