@@ -1,5 +1,5 @@
-# PROG201_EllaGRUBER
-Final project for the PROG 201 class of the Cogmaster
+# PROG_201 Final Project - Ella GRUBER
+Final project for the PROG 201 class of the Cogmaster, an experiment coded using PyGame.
 
 **Instructions: **
 In this task, you will see a series of letters shown on the screen, one after another. Your job is to silently repeat each letter in your mind as it appears. The sequence of letters will repeat seemlesssly (in a circle) about 3 to 4 times, and your goal is to keep repeating the letters in the correct order as they come up.
