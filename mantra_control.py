@@ -37,6 +37,7 @@ nBlocks = 3 # Total number of blocks in experiement
 nTrials_per_block = 5 # Number of trials per block
 
 # OUTPUT file variables/setup
+os.makedirs('data', exist_ok=True)
 manip='mantraLetters'
 suj = input("Participant-e?: ")
 data_directory='data'
