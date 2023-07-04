@@ -19,8 +19,6 @@ To activate the venv, use the following command: bash  source myenv/bin/ac
 Now that we’re in our venv, we’re ready to install the packages. Use pip3 to install them.  Install the following packages: numpy ; pygame 
 Should you want to leave the venv for something, close the Terminal or type:   deactivate 
 
-As a last step, you want to create a folder called “data” in the venv folder, where the txt files put out by the script will be located. Without this folder, the script will refuse to run.
-
 **Running the script**
 
 First, put the script file in the venv we created previously. Just copy + paste it in there 
